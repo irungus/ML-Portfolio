@@ -4,6 +4,8 @@ Welcome to my Machine Learning Portfolio.
 
 This repository documents my practical journey in machine learning, data science, statistical modelling, remote sensing, health analytics, climate analytics, and environmental applications.
 
+The portfolio combines theoretical understanding with hands-on implimentation using real world datasets.
+
 ## Objectives
 
 The objectives of this portfolio are to:
@@ -35,3 +37,11 @@ machine-learning-portfolio/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+
+# Author 
+
+Samuel Irungu Kigotho
+
+Data Scientist | Research | Machine Learning | Remote Sensing | Climate Analytics | Health Analytics and Environmental Analytics
